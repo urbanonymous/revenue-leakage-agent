@@ -1,0 +1,44 @@
+[
+    {
+      "plan_id": "pl-2301",
+      "customer_name": "TechFlow",
+      "total_value": 84000,
+      "currency": "USD",
+      "cadence": "Monthly",
+      "start_date": "2024-03-01",
+      "entitlements": ["Data", "Support"],
+      "notes": "12-month SaaS; expected ~7000 USD per month."
+    },
+    {
+      "plan_id": "pl-2307",
+      "customer_name": "DataSync",
+      "total_value": 108000,
+      "currency": "USD",
+      "cadence": "Quarterly",
+      "start_date": "2024-05-01",
+      "entitlements": ["Data", "Premium Support"],
+      "notes": "Initial renewal term; superseded by C-2307-A1 from 2024-09-01 (see amendment)."
+    },
+    {
+      "plan_id": "pl-2307-A1",
+      "customer_name": "DataSync",
+      "total_value": 120000,
+      "currency": "USD",
+      "cadence": "Quarterly",
+      "start_date": "2024-09-01",
+      "amends": "pl-2307",
+      "entitlements": ["Data", "Premium Support"],
+      "notes": "Amendment effective 2024-09-01. Quarterly target now 30000 USD."
+    },
+    {
+      "plan_id": "pl-2310",
+      "customer_name": "CloudVision",
+      "total_value": 150000,
+      "currency": "USD",
+      "cadence": "Annual",
+      "start_date": "2024-02-15",
+      "entitlements": ["Data", "Consulting"],
+      "notes": "Enterprise annual. Watch for entitlement coverage ('Data')."
+    }
+  ]
+  

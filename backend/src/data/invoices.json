@@ -1,0 +1,16 @@
+[
+    {"invoice_id":"inv-7001","plan_id":"pl-2301","customer_name":"TechFlow","issue_date":"2024-03-05","due_date":"2024-03-20","amount_invoiced":7000,"currency":"USD","status":"paid","description":"Monthly Data subscription"},
+    {"invoice_id":"inv-7002","plan_id":"pl-2301","customer_name":"TechFlow","issue_date":"2024-04-05","due_date":"2024-04-20","amount_invoiced":7000,"currency":"USD","status":"paid","description":"Monthly Data subscription"},
+    {"invoice_id":"inv-7003","plan_id":"pl-2301","customer_name":"TechFlow","issue_date":"2024-05-05","due_date":"2024-05-20","amount_invoiced":7000,"currency":"USD","status":"paid","description":"Monthly Data subscription"},
+    {"invoice_id":"inv-7004","plan_id":"pl-2301","customer_name":"TechFlow","issue_date":"2024-06-05","due_date":"2024-06-20","amount_invoiced":7000,"currency":"USD","status":"paid","description":"Monthly Data subscription"},
+    {"invoice_id":"inv-7005","plan_id":"pl-2301","customer_name":"TechFlow","issue_date":"2024-07-05","due_date":"2024-07-20","amount_invoiced":7000,"currency":"USD","status":"paid","description":"Monthly Data subscription"},
+    {"invoice_id":"inv-7006","plan_id":"pl-2301","customer_name":"TechFlow","issue_date":"2024-08-05","due_date":"2024-08-20","amount_invoiced":7000,"currency":"USD","status":"paid","description":"Monthly Data subscription"},
+    {"invoice_id":"inv-7007","plan_id":"pl-2301","customer_name":"TechFlow","issue_date":"2024-09-05","due_date":"2024-09-20","amount_invoiced":7000,"currency":"USD","status":"paid","description":"Monthly Data subscription"},
+    {"invoice_id":"inv-7008","plan_id":"pl-2301","customer_name":"TechFlow","issue_date":"2024-10-05","due_date":"2024-10-20","amount_invoiced":7000,"currency":"USD","status":"paid","description":"Monthly Data subscription"},
+    {"invoice_id":"inv-7010","plan_id":"pl-2301","customer_name":"TechFlow","issue_date":"2024-12-05","due_date":"2024-12-20","amount_invoiced":7000,"currency":"USD","status":"unpaid","description":"Monthly Data subscription"},
+    {"invoice_id":"inv-7110","plan_id":"pl-2307","customer_name":"DataSync","issue_date":"2024-08-10","due_date":"2024-08-30","amount_invoiced":25000,"currency":"USD","status":"paid","description":"Quarterly Data subscription"},
+    {"invoice_id":"inv-7823","plan_id":"pl-2307-A1","customer_name":"DataSync","issue_date":"2024-11-15","due_date":"2024-11-30","amount_invoiced":30000,"currency":"GBP","status":"paid","description":"Quarterly Data subscription"},
+    {"invoice_id":"inv-7201","plan_id":"pl-2310","customer_name":"CloudVision","issue_date":"2024-02-20","due_date":"2024-03-15","amount_invoiced":125000,"currency":"USD","status":"paid","description":"Annual base plan"},
+    {"invoice_id":"inv-7202","plan_id":"","customer_name":"DataSync","issue_date":"2025-01-10","due_date":"2025-01-30","amount_invoiced":18000,"currency":"USD","status":"paid","description":"Orphan renewal payment (no contract reference)"}
+  ]
+  

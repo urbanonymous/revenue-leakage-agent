@@ -1,0 +1,12 @@
+[
+    {
+      "memo_id": "M-450",
+      "plan_id": "pl-2307-A1",
+      "invoice_id": "inv-7823",
+      "amount": 3500,
+      "currency": "USD",
+      "issue_date": "2024-11-18",
+      "reason": "FX overbilling adjustment (GBP→USD)"
+    }
+  ]
+  
