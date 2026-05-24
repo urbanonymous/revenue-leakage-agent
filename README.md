@@ -16,4 +16,4 @@ OPENAI_API_KEY=your-api-key-here
 ### Duration to implement the project
 110 minutes
 
-Tools used: Cursor, Sonned 4.5
+Tools used: Cursor, Sonnet 4.5
